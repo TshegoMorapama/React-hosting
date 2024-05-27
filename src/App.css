@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+}
+
+.message {
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+ul {
+    text-align: left;
+    margin-top: 20px;
+}
