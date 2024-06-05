@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": ["react", "starter"],
-  "main": "src/index.js",
+  "main": "src/indexToRename.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
